@@ -1,6 +1,6 @@
 [![MasterHead](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)]
 <h1 align="center">Hi 👋, I'm Sachin Tambale</h1>
-<h3 align="center">A passionate machine learning and data science enthusiast</h3>
+<h3 align="center">A passionate Big Data, Machine Learning and Deep Learning enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachintambale&label=Profile%20views&color=0e75b6&style=flat" alt="sachintambale" /> </p>
